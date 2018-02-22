@@ -1,0 +1,24 @@
+body {
+  background: url(http://static1.squarespace.com/static/547d3a0fe4b009320b6915e1/t/54c7465be4b080f91c82df1f/1422345819989/Bar+35_hero_06+top+bar.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.ui.borderless.topmenu.menu{
+  padding-top: 90px;
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+.ui.centered.image{
+  width: 250px;
+  padding-top: 125px;
+}
+
+.ui.centered.bottom.grid{
+  padding-top: 200px;
+  font-size: 40px;
+  color: white;
+  font-style: bold;
+  text-align: center;
+}
